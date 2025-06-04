@@ -1,6 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Route, Link, Switch } from 'react-router-dom';
-import Calendar from './Calendar';
+import Calendar from '../Calendar';
 
 // Add more motivational quotes
 const motivationalQuotes = [
